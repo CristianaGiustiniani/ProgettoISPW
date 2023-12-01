@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-12-01T12:31:02.610Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="FZsEndEXafJJfajkOuPj" version="22.1.2" type="device">
+<mxfile host="Electron" modified="2023-12-01T15:53:37.598Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="ebG7-voGcfbgMK_qW7lA" version="22.1.2" type="device">
   <diagram name="Pagina-1" id="WWh0_SsoO25W6FRa21t9">
-    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1418" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -160,7 +160,7 @@
         <mxCell id="SUVodkcdX4tQ2F5Mpv8K-3" value="Restaurateur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="SUVodkcdX4tQ2F5Mpv8K-131" vertex="1">
           <mxGeometry x="-60" y="507.21000000000004" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SUVodkcdX4tQ2F5Mpv8K-15" value="Provide menu detail" style="ellipse;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="SUVodkcdX4tQ2F5Mpv8K-131" vertex="1">
+        <mxCell id="SUVodkcdX4tQ2F5Mpv8K-15" value="Provide menu details" style="ellipse;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="SUVodkcdX4tQ2F5Mpv8K-131" vertex="1">
           <mxGeometry x="80" y="465.21" width="102.3076923076923" height="62.222222222222214" as="geometry" />
         </mxCell>
         <mxCell id="SUVodkcdX4tQ2F5Mpv8K-114" value="Provide&lt;br&gt;restaurant details" style="ellipse;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="SUVodkcdX4tQ2F5Mpv8K-131" vertex="1">
@@ -202,8 +202,8 @@
             <mxPoint x="1110" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0ggBJ-V_-2L_ERKzc3WN-130" value="Notes: &lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;All use cases, &lt;/span&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;Log in&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; excluded, include &lt;/span&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;Log in&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;The arrows from the actors Pickie, Administrator and Restaurateur towards the use case Log exist yet are not drawn for visual clarity.&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="100" y="700" width="770" height="100" as="geometry" />
+        <mxCell id="0ggBJ-V_-2L_ERKzc3WN-130" value="Notes: &lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;All use cases, &lt;/span&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;Log in&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; excluded, include &lt;/span&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;Log in&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;The arrows from the actors &lt;i&gt;Pickie&lt;/i&gt;, &lt;i&gt;Administrator &lt;/i&gt;and &lt;i&gt;Restaurateur &lt;/i&gt;towards the use case &lt;i&gt;Log in &lt;/i&gt;exist yet are not drawn for visual clarity.&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="100" y="700" width="780" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
