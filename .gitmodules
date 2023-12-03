@@ -1,3 +1,4 @@
 [submodule "5 Code"]
 	path = 5 Code
 	url = https://github.com/lucagasperini/SourceCode-PickyEater.git
+	branch = master
