@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-12-01T16:14:41.842Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="BM7NeSmsMVZXVrsEMxqK" version="22.1.2" type="device">
+<mxfile host="Electron" modified="2024-01-17T15:47:13.731Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="7eRtJ7g3GObTWdUJHwCV" version="22.1.2" type="device">
   <diagram name="Pagina-1" id="WWh0_SsoO25W6FRa21t9">
-    <mxGraphModel dx="1182" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,10 +67,10 @@
             <mxPoint y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lcHNOFjkieyMgR1XKtjw-1" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SUVodkcdX4tQ2F5Mpv8K-131" source="SUVodkcdX4tQ2F5Mpv8K-20" target="SUVodkcdX4tQ2F5Mpv8K-107">
+        <mxCell id="lcHNOFjkieyMgR1XKtjw-1" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="SUVodkcdX4tQ2F5Mpv8K-131" source="SUVodkcdX4tQ2F5Mpv8K-20" target="SUVodkcdX4tQ2F5Mpv8K-107" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lcHNOFjkieyMgR1XKtjw-3" value="Extends" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lcHNOFjkieyMgR1XKtjw-1">
+        <mxCell id="lcHNOFjkieyMgR1XKtjw-3" value="Extends" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lcHNOFjkieyMgR1XKtjw-1" vertex="1" connectable="0">
           <mxGeometry x="-0.3954" y="-1" relative="1" as="geometry">
             <mxPoint x="4" y="-10" as="offset" />
           </mxGeometry>
@@ -196,8 +196,8 @@
             <mxPoint x="80" y="92.11000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SUVodkcdX4tQ2F5Mpv8K-249" value="PickyEaters" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="90" y="10" width="90" height="30" as="geometry" />
+        <mxCell id="SUVodkcdX4tQ2F5Mpv8K-249" value="PickyEaters" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="SUVodkcdX4tQ2F5Mpv8K-131" vertex="1">
+          <mxGeometry width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0ggBJ-V_-2L_ERKzc3WN-1" value="Facebook &lt;br&gt;Login" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="1120" y="170" width="30" height="60" as="geometry" />
