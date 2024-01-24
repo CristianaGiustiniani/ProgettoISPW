@@ -42,10 +42,13 @@
                               <Cursor fx:constant="HAND" />
                            </cursor>
                         </Circle>
-                        <Text fill="WHITE" layoutX="19.0" layoutY="70.0" strokeType="OUTSIDE" strokeWidth="0.0" text="PickieUC3" textOrigin="CENTER">
+                        <Text fill="WHITE" layoutX="1.0" layoutY="71.0" strokeType="OUTSIDE" strokeWidth="0.0" text="PersonalizeEatingPreferencesText" textAlignment="CENTER" textOrigin="CENTER" wrappingWidth="138.12890625">
                            <font>
-                              <Font size="24.0" />
+                              <Font name="Calibri Bold" size="17.0" />
                            </font>
+                           <cursor>
+                              <Cursor fx:constant="HAND" />
+                           </cursor>
                         </Text>
                      </children>
                   </Pane>
@@ -56,10 +59,13 @@
                               <Cursor fx:constant="HAND" />
                            </cursor>
                         </Circle>
-                        <Text fill="WHITE" layoutX="56.0" layoutY="115.0" strokeType="OUTSIDE" strokeWidth="0.0" text="PickieUC2">
+                        <Text fill="WHITE" layoutX="28.0" layoutY="111.0" strokeType="OUTSIDE" strokeWidth="0.0" text="ReviewADishText" textAlignment="CENTER">
                            <font>
-                              <Font size="24.0" />
+                              <Font name="Calibri Bold" size="22.0" />
                            </font>
+                           <cursor>
+                              <Cursor fx:constant="HAND" />
+                           </cursor>
                         </Text>
                      </children>
                   </Pane>
@@ -70,10 +76,13 @@
                               <Cursor fx:constant="HAND" />
                            </cursor>
                         </Circle>
-                        <Text fill="WHITE" layoutX="98.0" layoutY="159.0" strokeType="OUTSIDE" strokeWidth="0.0" text="PickieUC1">
+                        <Text fill="WHITE" layoutX="45.0" layoutY="157.0" strokeType="OUTSIDE" strokeWidth="0.0" text="FindARestaurantText" textAlignment="CENTER">
                            <font>
-                              <Font size="24.0" />
+                              <Font name="Calibri Bold" size="24.0" />
                            </font>
+                           <cursor>
+                              <Cursor fx:constant="HAND" />
+                           </cursor>
                         </Text>
                      </children>
                   </Pane>
